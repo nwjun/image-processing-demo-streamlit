@@ -5,6 +5,6 @@ This is a simple website that wish to provide insights on the concept of kernels
 
 ## Todo
 - [ ] Add explaination on each filter
-- [ ] Add another page which allows users to altered the kernel size to be used on the image
+- [ ] Add another page which allows users to altered the kernel size, value and step to be used on the image
 - [ ] Add "upload photo" feature
 - [ ] Add more photos and filters
